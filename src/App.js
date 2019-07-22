@@ -26,6 +26,7 @@ class App extends React.Component {
 
   render() {
     const { location, isAuthenticated, loaded, lang } = this.props;
+
     return (
       <IntlProvider locale={lang} messages={messages[lang]}>
         <div>
