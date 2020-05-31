@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot index page index renders correctly 1`] = `
+<div>
+  <p>
+    A simple example repo
+  </p>
+  <div>
+    <a
+      href="/register"
+      onClick={[Function]}
+      onMouseEnter={[Function]}
+    >
+      Register
+    </a>
+  </div>
+  <div>
+    <a
+      href="/login"
+      onClick={[Function]}
+      onMouseEnter={[Function]}
+    >
+      Login
+    </a>
+  </div>
+</div>
+`;

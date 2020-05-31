@@ -1,0 +1,65 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot TestingDashboard page TestingDashboard renders correctly 1`] = `
+<div>
+  <div
+    style={
+      Object {
+        "textAlign": "center",
+      }
+    }
+  >
+    <a
+      href="/"
+      onClick={[Function]}
+      onMouseEnter={[Function]}
+    >
+      Home
+    </a>
+  </div>
+  <h1
+    style={
+      Object {
+        "textAlign": "center",
+      }
+    }
+  >
+    Automedon CarYard
+  </h1>
+  <div>
+    Loading...
+  </div>
+</div>
+`;
+
+exports[`Snapshot dashboard page dashboard renders correctly 1`] = `
+<div>
+  <div
+    style={
+      Object {
+        "textAlign": "center",
+      }
+    }
+  >
+    <a
+      href="/"
+      onClick={[Function]}
+      onMouseEnter={[Function]}
+    >
+      Home
+    </a>
+  </div>
+  <h1
+    style={
+      Object {
+        "textAlign": "center",
+      }
+    }
+  >
+    Automedon CarYard
+  </h1>
+  <div>
+    Loading...
+  </div>
+</div>
+`;

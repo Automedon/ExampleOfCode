@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot TestingLoginPage page TestingLoginPage renders correctly 1`] = `
+<Component>
+  <div>
+    <Link
+      href="/dashboard"
+    >
+      <a>
+        DashBoard (You can go here without login but...)
+      </a>
+    </Link>
+  </div>
+  <WithApollo(LoginForm) />
+  <WithApollo(FindForm) />
+</Component>
+`;

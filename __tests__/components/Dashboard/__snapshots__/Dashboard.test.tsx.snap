@@ -1,0 +1,112 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DashBoardList renders 1`] = `
+Array [
+  <div
+    style={
+      Object {
+        "textAlign": "center",
+      }
+    }
+  >
+    <div>
+      <a
+        href="/login"
+        onClick={[Function]}
+        onMouseEnter={[Function]}
+      >
+        Go to Login
+      </a>
+    </div>
+    ***Here is a content you need to be logged to see it***
+  </div>,
+  <div
+    style={
+      Object {
+        "alignItems": "center",
+        "display": "flex",
+        "flexDirection": "column",
+      }
+    }
+  >
+    <div
+      className=""
+    >
+      <img
+        alt="https://dummyimage.com/600x400/000/fff"
+        className="carImg"
+        src="https://dummyimage.com/600x400/000/fff"
+      />
+      <div
+        className="carCost"
+      >
+        $5000
+      </div>
+      <div
+        className="cost"
+      >
+        Cost 
+      </div>
+      <div
+        className=""
+      >
+        Available
+      </div>
+      <div
+        className="inStock"
+      >
+        In Stock 
+      </div>
+      <div
+        className="carMake"
+      >
+        BMW
+      </div>
+      <div
+        className="make"
+      >
+        Brand
+      </div>
+      <div
+        className="carModel"
+      >
+        x5
+      </div>
+      <div
+        className="model"
+      >
+        Model 
+      </div>
+      <div
+        className="carVin"
+      >
+        5555555
+      </div>
+      <div
+        className="vin"
+      >
+        Vin Number 
+      </div>
+      <div
+        className="carYear"
+      >
+        2005
+      </div>
+      <div
+        className="year"
+      >
+        Year 
+      </div>
+    </div>
+    <h2
+      style={
+        Object {
+          "textAlign": "center",
+        }
+      }
+    >
+      Automedon CarYard
+    </h2>
+  </div>,
+]
+`;

@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot register page register renders correctly 1`] = `
+<div>
+  <div>
+     
+    <h1>
+      Not a cool form huh? I will change it later... certainly...
+    </h1>
+    <form
+      action="#"
+      onReset={[Function]}
+      onSubmit={[Function]}
+    >
+      <div>
+        Email
+         
+        <input
+          name="email"
+          onBlur={[Function]}
+          onChange={[Function]}
+          type="email"
+          value=""
+        />
+      </div>
+      <div>
+        Password
+         
+        <input
+          name="password"
+          onBlur={[Function]}
+          onChange={[Function]}
+          type="password"
+          value=""
+        />
+      </div>
+      <div>
+        <button
+          disabled={false}
+          type="submit"
+        >
+          Submit
+        </button>
+      </div>
+    </form>
+  </div>
+  <div>
+    <a
+      href="/"
+      onClick={[Function]}
+      onMouseEnter={[Function]}
+    >
+      Home Page
+    </a>
+  </div>
+</div>
+`;
